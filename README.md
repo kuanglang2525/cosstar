@@ -1,0 +1,2 @@
+# cosstar
+star.yes on
